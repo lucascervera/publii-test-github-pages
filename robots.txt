@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lucascervera.github.io/publii-test-github-pages/sitemap.xml

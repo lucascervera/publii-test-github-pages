@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "LC test website",
+    "description": "",
+    "home_page_url": "https://lucascervera.github.io/publii-test-github-pages",
+    "feed_url": "https://lucascervera.github.io/publii-test-github-pages/feed.json",
+    "user_comment": "",
+    "icon": "https://lucascervera.github.io/publii-test-github-pages/media/website/innteresante_logo_540x122-2.png",
+    "author": {
+        "name": "test author"
+    },
+    "items": [
+        {
+            "id": "https://lucascervera.github.io/publii-test-github-pages/test-website.html",
+            "url": "https://lucascervera.github.io/publii-test-github-pages/test-website.html",
+            "title": "# Test website",
+            "summary": "blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah&hellip;",
+            "content_html": "<p> blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah </p>\n",
+            "image": "https://lucascervera.github.io/publii-test-github-pages/media/posts/1/DALLE-2023-01-12-19.26.52-crazy-killer-robot-with-red-eyes-and-dracula-theet.png",
+            "author": {
+                "name": "test author"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-14T10:24:43+01:00",
+            "date_modified": "2023-01-14T10:24:43+01:00"
+        }
+    ]
+}

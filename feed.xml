@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>LC test website</title>
+    <link href="https://lucascervera.github.io/publii-test-github-pages/feed.xml" rel="self" />
+    <link href="https://lucascervera.github.io/publii-test-github-pages" />
+    <updated>2023-01-14T10:24:43+01:00</updated>
+    <author>
+        <name>test author</name>
+    </author>
+    <id>https://lucascervera.github.io/publii-test-github-pages</id>
+
+    <entry>
+        <title># Test website</title>
+        <author>
+            <name>test author</name>
+        </author>
+        <link href="https://lucascervera.github.io/publii-test-github-pages/test-website.html"/>
+        <id>https://lucascervera.github.io/publii-test-github-pages/test-website.html</id>
+        <media:content url="https://lucascervera.github.io/publii-test-github-pages/media/posts/1/DALLE-2023-01-12-19.26.52-crazy-killer-robot-with-red-eyes-and-dracula-theet.png" medium="image" />
+
+        <updated>2023-01-14T10:24:43+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://lucascervera.github.io/publii-test-github-pages/media/posts/1/DALLE-2023-01-12-19.26.52-crazy-killer-robot-with-red-eyes-and-dracula-theet.png" alt="" />
+                    blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lucascervera.github.io/publii-test-github-pages/media/posts/1/DALLE-2023-01-12-19.26.52-crazy-killer-robot-with-red-eyes-and-dracula-theet.png" class="type:primaryImage" alt="" /></p>
+                <p> blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah </p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>
