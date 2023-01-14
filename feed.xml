@@ -3,12 +3,107 @@
     <title>LC test website</title>
     <link href="https://lucascervera.github.io/publii-test-github-pages/feed.xml" rel="self" />
     <link href="https://lucascervera.github.io/publii-test-github-pages" />
-    <updated>2023-01-14T10:24:43+01:00</updated>
+    <updated>2023-01-14T11:22:48+01:00</updated>
     <author>
         <name>test author</name>
     </author>
     <id>https://lucascervera.github.io/publii-test-github-pages</id>
 
+    <entry>
+        <title>Contacto</title>
+        <author>
+            <name>test author</name>
+        </author>
+        <link href="https://lucascervera.github.io/publii-test-github-pages/contacto.html"/>
+        <id>https://lucascervera.github.io/publii-test-github-pages/contacto.html</id>
+
+        <updated>2023-01-14T11:22:48+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Loading…
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="640" height="1480" src="https://docs.google.com/forms/d/e/1FAIpQLSfZG1IyMVIij1vmt0Ovm2uTYghkHU6pwbc2v7x8kCB9NNIF5g/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Digitalización de empresas</title>
+        <author>
+            <name>test author</name>
+        </author>
+        <link href="https://lucascervera.github.io/publii-test-github-pages/digitalizacion-de-empresas.html"/>
+        <id>https://lucascervera.github.io/publii-test-github-pages/digitalizacion-de-empresas.html</id>
+        <media:content url="https://lucascervera.github.io/publii-test-github-pages/media/posts/2/29938.jpg" medium="image" />
+            <category term="tecnología"/>
+
+        <updated>2023-01-14T11:22:24+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://lucascervera.github.io/publii-test-github-pages/media/posts/2/29938.jpg" alt="" />
+                    Es imprescindible la integración de las nuevas tecnologías en todas las áreas de una empresa para cambiar su forma de funcionar. El objetivo es optimizar los procesos, mejorar su competitividad y ofrecer un nuevo valor añadido a sus clientes que les permita consolidar y desarrollar&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lucascervera.github.io/publii-test-github-pages/media/posts/2/29938.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Es imprescindible la integración de las nuevas tecnologías en todas las áreas de una empresa para cambiar su forma de funcionar. El objetivo es optimizar los procesos, mejorar su competitividad y ofrecer un nuevo valor añadido a sus clientes que les permita consolidar y desarrollar su negocio.</p>
+<h1 id="objetivos">Objetivos</h1>
+<p>Conseguir que las empresas participantes conozcan las tendencias innovadoras más relevantes para su negocio, comprendan las herramientas tecnológicas existentes, las ventajas que podrían aportarles y la forma de implementarlas en su organización. </p>
+<h1 id="servicios">Servicios</h1>
+<ul>
+<li>Impartición de clases y talleres (presencial o en remoto)</li>
+<li>Asesoramiento personalizado (presencial o en remoto)</li>
+<li>Diseño de programas formativos</li>
+</ul>
+<h1 id="contenidos">Contenidos</h1>
+<h2 id="análisis-de-tendencias">Análisis de tendencias</h2>
+<ul>
+<li>Inteligencia Artificial, Blockchain, IOT, Big Data, Domótica, Robotización…</li>
+<li>Innovación</li>
+<li>Diseño de futuros</li>
+</ul>
+<h2 id="herramientas-para-la-digitalización">Herramientas para la digitalización</h2>
+<h3 id="¿dónde-puedo-encontrar-herramientas">¿Dónde puedo encontrar herramientas?</h3>
+<p>Directorios de herramientas (Product Hunt, Appsumo, GitHub…)</p>
+<h3 id="¿qué-herramientas-puedo-utilizar">¿Qué herramientas puedo utilizar?</h3>
+<ul>
+<li>Navegador y extensiones (dictado, captura de pantalla, compartir…)</li>
+<li>Documentos y hojas de cálculo (Google Drive, Notion, Grammarly..)</li>
+<li>Productividad (Google Calendar, Trello, Slack, asistentes…)</li>
+<li>Videoconferencias y trabajo en remoto (Zoom, Google Meet, DropBox…)</li>
+<li>Automatización de tareas (plugins, mail merge, IFTTT…)</li>
+<li>Reclutamiento y Outsourcing (Indeed, Upwork, Fiverr…)</li>
+<li>Contenidos y formación (Moocs, podcasts, TikTok…)</li>
+<li>Prototipado (Impresión 3D, Figma, Blender…)</li>
+<li>Marketing de contenidos (Camtasia</li>
+<li>Bancos de imágenes (Unsplash, Freepik, Pexels…)</li>
+<li>Sitio web (dominios, hosting, gestores de contenidos…)</li>
+<li>Promoción y redes sociales (Youtube, Facebook, LinkedIn, TikTok…)</li>
+<li>Financiación (crowdfunding)</li>
+<li>Ventas (CRMs, marketplaces, Google My Business)</li>
+<li>Seguridad (antivirus, backups…)</li>
+</ul>
+<h3 id="¿cómo-digitalizo-mi-empresa">¿Cómo digitalizo mi empresa?</h3>
+<ul>
+<li>Identificación de áreas de mejora</li>
+<li>Análisis de herramientas (adecuación, precio. usabilidad, lock-in…)</li>
+<li>Reingeniería de procesos, gestión de proyectos, roles necesarios, gestión del cambio…</li>
+<li>Gestión del cambio de la cultura empresarial y organización</li>
+<li>Mejora contínua</li>
+</ul>
+<h2 id="contacto">Contacto</h2>
+<p><a href="https://lh4.googleusercontent.com/3-fp1hqLJX0kfDLrsKqdjtBgmg9KzrrLAiA8q_r_Im2u97GEU9WLyDMqrTBr6qG33upFG86whc9Cxt6YISOJ4VfClJ75V8cUQe2h6Fbv2Y0tHwJ3D616esbv2PxqcKiklA=s0">https://lh4.googleusercontent.com/3-fp1hqLJX0kfDLrsKqdjtBgmg9KzrrLAiA8q_r_Im2u97GEU9WLyDMqrTBr6qG33upFG86whc9Cxt6YISOJ4VfClJ75V8cUQe2h6Fbv2Y0tHwJ3D616esbv2PxqcKiklA=s0</a></p>
+<p>Emprendedor especializado en Innovación + Startups + Diseño y Validación de negocios. Co-fundador de 3 startups y 1 fundación.</p>
+<p><a href="http://lucascervera.com">lucascervera.com</a></p>
+<p><a href="mailto:&#108;&#x75;&#99;&#97;&#x73;&#x40;&#108;&#x75;&#99;&#x61;&#x73;&#x63;&#101;&#114;&#x76;&#101;&#x72;&#97;&#46;&#99;&#x6f;&#x6d;">&#108;&#x75;&#99;&#97;&#x73;&#x40;&#108;&#x75;&#99;&#x61;&#x73;&#x63;&#101;&#114;&#x76;&#101;&#x72;&#97;&#46;&#99;&#x6f;&#x6d;</a></p>
+<p>+34 639662303</p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title># Test website</title>
         <author>
